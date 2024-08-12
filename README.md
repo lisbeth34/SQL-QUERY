@@ -30,5 +30,6 @@ The Books table stores information about books.
 ![find out how many books there are according to nationality, eg maybe there are 5 books from South African authors and 3 books from Hong Kong  ](https://github.com/user-attachments/assets/e5b5b9a3-081b-4d82-ab7e-c320e7e90668)
 ![COUNT THE NUMBER OF BOOKS](https://github.com/user-attachments/assets/cefffbb8-ef94-474d-9cf7-4a4809661c5e)
 
-Author
+Author  
+
 Hloniphani Respect Ngoveni
